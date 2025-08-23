@@ -4,7 +4,7 @@
 <h3 align="center">MCA Student | Developer 🎮 | Data Enthusiast 📊</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUserName&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JiyaAmmuIssac&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
