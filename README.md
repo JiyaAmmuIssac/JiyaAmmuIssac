@@ -30,8 +30,49 @@
 
 ## 📂 Highlighted Projects  
 
-- 🎮 **Hill Climb Racing Clone** → Unity 2D physics-based racing game  
+## 🏎️ Terrain Racer
+**High-Octane Off-Road Racing Experience**
 
+A thrilling 3D terrain racing game featuring realistic physics, dynamic environments, and intense multiplayer competition across challenging off-road landscapes.
+
+### 🎮 Features
+- Realistic vehicle physics & handling
+- Dynamic terrain deformation
+- Multiplayer racing mode
+- Custom vehicle customization
+- Progressive damage system
+- Leaderboards & achievements
+
+### 🛠 Tech Stack
+`Unity 3D` `C#` `Photon Network` `Blender` `Substance Painter`
+
+### 🔗 Project Links
+[**Play Game**](#) • [**View Source**](#) • [**⭐ Star It**](#)
+
+---
+
+## ☕ KaappiKafe
+**Modern Café Management Solution**
+
+A comprehensive management system for coffee shops handling inventory, orders, customer relationships, and analytics in one seamless platform.
+
+### 📊 Features
+- Real-time inventory tracking
+- POS system integration
+- Customer loyalty programs
+- Sales analytics dashboard
+- Supplier management
+- Mobile ordering support
+
+### 🛠 Tech Stack
+`React` `Node.js` `MongoDB` `Express` `Stripe API` `Firebase`
+
+### 🔗 Project Links
+[**Live Demo**](#) • [**View Source**](#) • [**⭐ Star It**](#)
+
+---
+
+## 💌 Let's Build Something Amazing Together!
 👉 _Explore more in my [Repositories](https://github.com/JiyaAmmuIssac?tab=repositories)_
 
 ---
