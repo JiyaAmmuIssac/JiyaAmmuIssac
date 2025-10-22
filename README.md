@@ -51,151 +51,35 @@ Unity UI for HUD, buttons, and coin/fuel display
 
 # ☕ KAAPPI KAFE
 
-**Modern Café Experience - Interactive Web Platform**
+**Modern Café Website**
+
+A responsive café website with interactive menu system and smooth animations.
 
 ---
 
-## 🎯 CORE FEATURES
+## 🎯 FEATURES
 
-<div align="center">
-
-### 🌐 **Responsive Navigation**
-![Sticky Nav](https://img.shields.io/badge/Sticky_Nav-Background_Blur-FFD700?style=flat-square)
-![Mobile Menu](https://img.shields.io/badge/Mobile-Hamburger_Menu-804000?style=flat-square)
-![Smooth Scroll](https://img.shields.io/badge/Scroll-Smooth_Scrolling-47A248?style=flat-square)
-
-### ⚡ **Animated Hero**
-![Floating Icons](https://img.shields.io/badge/Animation-Floating_Coffee_Icons-FF6B35?style=flat-square)
-![Glowing Text](https://img.shields.io/badge/Effects-Glowing_Text-61DAFB?style=flat-square)
-![CTA Buttons](https://img.shields.io/badge/UI-Call_To_Action-FF1493?style=flat-square)
-
-### 📱 **Interactive Menu**
-![Categories](https://img.shields.io/badge/Filter-12%2B_Categories-239120?style=flat-square)
-![Product Highlight](https://img.shields.io/badge/Interaction-Product_Highlighting-0088CC?style=flat-square)
-![Smooth Nav](https://img.shields.io/badge/Navigation-Smooth_Section-FF6B35?style=flat-square)
-
-### 📱 **Mobile First**
-![Touch Friendly](https://img.shields.io/badge/UI-Touch_Friendly-47A248?style=flat-square)
-![Responsive](https://img.shields.io/badge/Design-Mobile_First-0088CC?style=flat-square)
-![Optimized](https://img.shields.io/badge/Performance-Mobile_Optimized-brightgreen?style=flat-square)
-
-### 🎨 **Visual Design**
-![Dark Theme](https://img.shields.io/badge/Theme-Dark_with_Golden_Accents-FFD700?style=flat-square)
-![Card Layout](https://img.shields.io/badge/Layout-Card_Based-804000?style=flat-square)
-![CSS Animations](https://img.shields.io/badge/Effects-CSS_Animations-61DAFB?style=flat-square)
-
-### 🔗 **Social Integration**
-![Instagram](https://img.shields.io/badge/Social-Instagram_Video_Embed-FF1493?style=flat-square)
-![Google Reviews](https://img.shields.io/badge/Reviews-Google_Integration-47A248?style=flat-square)
-![Social Sharing](https://img.shields.io/badge/Features-Social_Sharing-0088CC?style=flat-square)
-
-</div>
+- **Responsive Design** - Mobile-first approach with sticky navigation
+- **Interactive Menu** - 12+ categories with filtering and smooth navigation
+- **Social Integration** - Instagram videos and Google reviews
+- **Modern UI** - Dark theme with golden accents and CSS animations
+- **Hero Section** - Animated with floating icons and glowing effects
 
 ---
 
 ## 🛠 TECH STACK
 
-# ☕ KAAPPI KAFE
-
-**Modern Café Experience - Interactive Web Platform**
+`HTML5` `CSS3` `JavaScript` `Font Awesome` `Google Fonts`
 
 ---
 
-## 🎯 CORE FEATURES
+## 🔗 LINKS
 
-<div align="center">
-
-### 🌐 **Responsive Navigation**
-![Sticky Nav](https://img.shields.io/badge/Sticky_Nav-Background_Blur-FFD700?style=flat-square)
-![Mobile Menu](https://img.shields.io/badge/Mobile-Hamburger_Menu-804000?style=flat-square)
-![Smooth Scroll](https://img.shields.io/badge/Scroll-Smooth_Scrolling-47A248?style=flat-square)
-
-### ⚡ **Animated Hero**
-![Floating Icons](https://img.shields.io/badge/Animation-Floating_Coffee_Icons-FF6B35?style=flat-square)
-![Glowing Text](https://img.shields.io/badge/Effects-Glowing_Text-61DAFB?style=flat-square)
-![CTA Buttons](https://img.shields.io/badge/UI-Call_To_Action-FF1493?style=flat-square)
-
-### 📱 **Interactive Menu**
-![Categories](https://img.shields.io/badge/Filter-12%2B_Categories-239120?style=flat-square)
-![Product Highlight](https://img.shields.io/badge/Interaction-Product_Highlighting-0088CC?style=flat-square)
-![Smooth Nav](https://img.shields.io/badge/Navigation-Smooth_Section-FF6B35?style=flat-square)
-
-### 📱 **Mobile First**
-![Touch Friendly](https://img.shields.io/badge/UI-Touch_Friendly-47A248?style=flat-square)
-![Responsive](https://img.shields.io/badge/Design-Mobile_First-0088CC?style=flat-square)
-![Optimized](https://img.shields.io/badge/Performance-Mobile_Optimized-brightgreen?style=flat-square)
-
-### 🎨 **Visual Design**
-![Dark Theme](https://img.shields.io/badge/Theme-Dark_with_Golden_Accents-FFD700?style=flat-square)
-![Card Layout](https://img.shields.io/badge/Layout-Card_Based-804000?style=flat-square)
-![CSS Animations](https://img.shields.io/badge/Effects-CSS_Animations-61DAFB?style=flat-square)
-
-### 🔗 **Social Integration**
-![Instagram](https://img.shields.io/badge/Social-Instagram_Video_Embed-FF1493?style=flat-square)
-![Google Reviews](https://img.shields.io/badge/Reviews-Google_Integration-47A248?style=flat-square)
-![Social Sharing](https://img.shields.io/badge/Features-Social_Sharing-0088CC?style=flat-square)
-
-</div>
+[**View Project**] • [**Live Demo**] • [**Star It**]
 
 ---
 
-## 🛠 TECH STACK
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)
-
-</div>
-
----
-
-## 🚀 QUICK LINKS
-
-<div align="center">
-
-[**🌐 LIVE DEMO**] • [**📁 SOURCE CODE**] • [**⭐ STAR PROJECT**] • [**📱 VIEW SITE**]
-
-</div>
-
----
-
-<div align="center">
-
-**☕ EXPERIENCE MODERN CAFÉ DIGITAL PRESENCE ☕**
-
-</div>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)
-
-</div>
-
----
-
-## 🚀 QUICK LINKS
-
-<div align="center">
-
-[**🌐 LIVE DEMO**] • [**📁 SOURCE CODE**] • [**⭐ STAR PROJECT**] • [**📱 VIEW SITE**]
-
-</div>
-
----
-
-<div align="center">
-
-**☕ EXPERIENCE MODERN CAFÉ DIGITAL PRESENCE ☕**
-
-</div>
-
-## 🤝 Open for Collaborations
+*Modern digital presence for coffee shops*## 🤝 Open for Collaborations
 ## 💌 Let's Build Something Amazing Together!
 👉 _Explore more in my [Repositories](https://github.com/JiyaAmmuIssac?tab=repositories)_
 
