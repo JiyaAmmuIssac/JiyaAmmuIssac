@@ -33,9 +33,8 @@
 div align="center">
 
 ## 🏎️ Terrain Racer
-<img src="https://img.shields.io/badge/Game-3D_Racing-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game-2D_Racing-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Unity-2022.3-000000?style=for-the-badge&logo=unity" />
-<img src="https://img.shields.io/badge/Multiplayer-Photon-FF1493?style=for-the-badge" />
 
 **Thrilling off-road racing with realistic physics and dynamic environments**
 
