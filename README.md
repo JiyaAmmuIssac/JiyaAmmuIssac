@@ -28,50 +28,41 @@
 
 ---
 
-## 📂 Highlighted Projects  
+# 🚀 My Projects
+
+<div align="center">
 
 ## 🏎️ Terrain Racer
-**High-Octane Off-Road Racing Experience**
+<img src="https://img.shields.io/badge/Game-3D_Racing-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unity-2022.3-000000?style=for-the-badge&logo=unity" />
+<img src="https://img.shields.io/badge/Multiplayer-Photon-FF1493?style=for-the-badge" />
 
-A thrilling 3D terrain racing game featuring realistic physics, dynamic environments, and intense multiplayer competition across challenging off-road landscapes.
+**Thrilling off-road racing with realistic physics and dynamic environments**
 
-### 🎮 Features
-- Realistic vehicle physics & handling
-- Dynamic terrain deformation
-- Multiplayer racing mode
-- Custom vehicle customization
-- Progressive damage system
-- Leaderboards & achievements
+📍 **Features:** Vehicle Customization • Terrain Deformation • Multiplayer • Achievements  
+🔧 **Tech:** Unity, C#, Photon, Blender, FMOD
 
-### 🛠 Tech Stack
-`Unity 3D` `C#` `Photon Network` `Blender` `Substance Painter`
-
-### 🔗 Project Links
-[**Play Game**](#) • [**View Source**](#) • [**⭐ Star It**](#)
+[🎮 Play Demo](#) • [📁 Source Code](#) • [⭐ Star Project](#)
 
 ---
 
 ## ☕ KaappiKafe
-**Modern Café Management Solution**
+<img src="https://img.shields.io/badge/Web-Café_Management-804000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Full_Stack-MERN-47A248?style=for-the-badge" />
 
-A comprehensive management system for coffee shops handling inventory, orders, customer relationships, and analytics in one seamless platform.
+**Comprehensive coffee shop management with inventory, POS, and analytics**
 
-### 📊 Features
-- Real-time inventory tracking
-- POS system integration
-- Customer loyalty programs
-- Sales analytics dashboard
-- Supplier management
-- Mobile ordering support
+📍 **Features:** Inventory Tracking • POS System • CRM • Analytics Dashboard  
+🔧 **Tech:** React, Node.js, MongoDB, Stripe, Firebase
 
-### 🛠 Tech Stack
-`React` `Node.js` `MongoDB` `Express` `Stripe API` `Firebase`
+[🌐 Live Demo](#) • [📁 Source Code](#) • [⭐ Star Project](#)
 
-### 🔗 Project Links
-[**Live Demo**](#) • [**View Source**](#) • [**⭐ Star It**](#)
+</div>
 
 ---
 
+## 🤝 Open for Collaborations
 ## 💌 Let's Build Something Amazing Together!
 👉 _Explore more in my [Repositories](https://github.com/JiyaAmmuIssac?tab=repositories)_
 
