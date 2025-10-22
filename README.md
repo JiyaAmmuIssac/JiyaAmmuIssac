@@ -32,19 +32,34 @@
 
 <div align="center">
 
-## 🏎️ Terrain Racer
-<img src="https://img.shields.io/badge/Game-3D_Racing-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Unity-2022.3-000000?style=for-the-badge&logo=unity" />
-<img src="https://img.shields.io/badge/Multiplayer-Photon-FF1493?style=for-the-badge" />
+🎮 TERRAIN RACER 🏎️
+Extreme 2D Hill-Climb Racing Adventure
 
-**Thrilling off-road racing with realistic physics and dynamic environments**
+🚀 FEATURES
+Realistic Physics - Advanced car handling with Rigidbody2D & WheelJoint2D
 
-📍 **Features:** Vehicle Customization • Terrain Deformation • Multiplayer • Achievements  
-🔧 **Tech:** Unity, C#, Photon, Blender, FMOD
+Fuel System - Manage fuel with pickups; game over when empty
 
-[🎮 Play Demo](#) • [📁 Source Code](#) • [⭐ Star Project](#)
+Coin Collection - Track session & total coins for progression
 
----
+Level Progression - Multiple stages with increasing difficulty
+
+Crash Detection - Realistic game-over conditions
+
+Mini-map - Track progress through challenging terrain
+
+Mobile Controls - Virtual buttons for smooth gameplay
+
+🛠 TECH STACK
+Unity 2D C# Rigidbody2D WheelJoint2D Prefab System Unity UI
+
+🎯 QUICK LINKS
+[🎮 Play Demo] • [📁 Source Code] • [⭐ Star Project]
+
+<div align="center">
+🏁 START YOUR ENGINES! 🏁
+
+</div>
 
 ## ☕ KaappiKafe
 <img src="https://img.shields.io/badge/Web-Café_Management-804000?style=for-the-badge" />
