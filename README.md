@@ -30,36 +30,24 @@
 
 # 🚀 My Projects
 
-<div align="center">
+FEATURED PROJECTS
+TERRAIN RACER
+terrain-racer
+Extreme 2D hill-climb racing game with realistic car physics, fuel system, and challenging terrain.
 
-🎮 TERRAIN RACER 🏎️
-Extreme 2D Hill-Climb Racing Adventure
+Unity 2D
+Realistic car physics
+Fuel & coin collection system
+Multiple levels & progression
+Mobile-friendly controls
+Crash detection
 
-🚀 FEATURES
-Realistic Physics - Advanced car handling with Rigidbody2D & WheelJoint2D
+Tech Stack: Unity C# Physics2D
+text
+Mobile Game Development  
+View Project ▼ Star It
 
-Fuel System - Manage fuel with pickups; game over when empty
 
-Coin Collection - Track session & total coins for progression
-
-Level Progression - Multiple stages with increasing difficulty
-
-Crash Detection - Realistic game-over conditions
-
-Mini-map - Track progress through challenging terrain
-
-Mobile Controls - Virtual buttons for smooth gameplay
-
-🛠 TECH STACK
-Unity 2D C# Rigidbody2D WheelJoint2D Prefab System Unity UI
-
-🎯 QUICK LINKS
-[🎮 Play Demo] • [📁 Source Code] • [⭐ Star Project]
-
-<div align="center">
-🏁 START YOUR ENGINES! 🏁
-
-</div>
 
 ## ☕ KaappiKafe
 <img src="https://img.shields.io/badge/Web-Café_Management-804000?style=for-the-badge" />
